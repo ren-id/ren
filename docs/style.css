@@ -1,0 +1,92 @@
+body {
+background: #ffffff;
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+}
+
+h1, h2, h3, p, li, table, figcaption, nav {
+font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", sans-serif;
+color: #555555;
+text-decoration: none;
+line-height: 1.3em;
+}
+
+h1, h2, h3, p, li, table {
+margin: 16px 0 16px 0;
+}
+
+h1 {
+padding-bottom: 16px;
+font-size: 28px;
+}
+
+h2 {
+font-size: 20px;
+}
+
+article {
+margin: 32px 0 32px 0;
+}
+
+p, th, td, li, button, input, nav, figcaption {
+font-size: 17px;
+}
+
+a {
+text-decoration: none;
+color: #0066ff;
+}
+
+blockquote {
+border-left: 4px solid #0066ff;
+padding: 8px 8px 8px 8px;
+margin: 0 0 0 0;
+background: #e9f4ff;
+}
+
+table {
+border: 1px solid #dddddd;
+border-spacing: 0;
+width: 100%;
+}
+
+thead {
+background: #eeeeee;
+}
+
+th, td {
+padding: 4px 4px 4px 4px;
+text-align: left;
+}
+
+.hlink {
+word-spacing: 16px;
+line-height: 1.5em;
+}
+
+.header {
+position: sticky;
+top: 0;
+left: 0;
+backdrop-filter: saturate(180%) blur(20px);
+padding: 16px 16px 16px 16px;
+background: #ffffff88;
+margin: 0 0 0 0;
+}
+
+.utama {
+max-width: 600px;
+margin: 0 auto 0 auto;
+padding: 16px 16px 16px 16px;
+}
+
+figure {
+margin: 32px 0 32px 0;
+padding: 0 0 0 0;
+background: #ffffff;
+box-shadow: 2px 2px 8px 0 #cccccc88;
+}
+
+figcaption {
+padding: 16px 16px 16px 16px;
+}
