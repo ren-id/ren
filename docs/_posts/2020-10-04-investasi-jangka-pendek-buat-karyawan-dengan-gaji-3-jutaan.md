@@ -8,7 +8,7 @@ Eits... investasi beda lho dari nabung. Kalau nabung di bank, uang kamu bakal di
 
 Berikut ini rekomendasi platform digital yang cocok buat investasi jangka pendek.
 
-*
+* 
 {:toc}
 
 ## 1. Bibit
