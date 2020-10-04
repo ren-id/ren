@@ -28,3 +28,5 @@ Ke depannya, aku ingin aplikasi itu juga tersedia di perangkat Apple. Juga, aku 
 3. **Menyajikannya di dalam aplikasi.** Saat ini, Panaturan tersedia untuk Android. Lainnya (iOS, iPadOS, website) menyusul ya.
 
 Semoga proyek ini dapat terus berjalan dan berkelanjutan. Aku berharap ada pihak lain yang mau berpartisipasi. Aku menganggap ini penting karena Kaharingan merupakan bagian dari kekayaan kebudayaan Indonesia. Di samping menyiapkan perangkat lunak untuk ponsel pintar, orang-orang harus memiliki akses ke sebuah domain yang menyediakan informasi secara utuh dan fokus, terutama Panaturan dan bagiannya. Aku ingin sebuah domain yang secara khusus didedikasikan untuk hal tersebut. Dengan begitu, semua orang (tak peduli apakah dia Kaharingan atau bukan) dapat membaca isi dasar-dasar kepercayaan Kaharingan secara utuh.
+
+[![Protected by Copyscape" title="Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png)](href="http://www.copyscape.com/)
