@@ -1,8 +1,11 @@
+---
+title: Pengertian Bajakah yang Benar Menurut Bahasa Dayak Ngaju
+---
 # Pengertian Bajakah yang Benar Menurut Bahasa Dayak Ngaju
 
 Bajakah adalah batang tumbuhan yang menjalar atau merambat. Sederhananya, batangnya tidak berbentuk pohon. Umumnya menjalar di permukaan tanah atau merambati pohon atau objek di sekitarnya. Jadi, batangnya kacang panjang, labu, mentimun, pare, melon, dll juga bisa disebut sebagai bajakah. Di hutan hujan tropis di Gunung Mas, Kalimantan Tengah, bajakah dapat dilihat bergelantungan di pohon-pohon. Dango merupakan salah satu spesies dengan bajakah raksasa yang buahnya dapat dimakan. Lamei merupakan salah satu spesies yang bajakahnya mengandung air dalam jumlah banyak.
 
-Kata bajakah berasal dari bahasa Dayak Ngaju. Banyak orang mengartikan bajakah secara keliru dan mengira bajakah adalah nama tumbuhan, sebagiannya menganggap bajakah sebagai akar tumbuhan. Lalu, apa sebenarnya bajakah itu?
+Kata bajakah berasal dari bahasa Dayak Ngaju. Banyak orang mengartikan bajakah secara keliru dan mengira bajakah adalah nama tumbuhan, sebagiannya menganggap bajakah sebagai akar tumbuhan.
 
 ## Apa nama jenis bajakah yang sempat viral di Internet?
 
