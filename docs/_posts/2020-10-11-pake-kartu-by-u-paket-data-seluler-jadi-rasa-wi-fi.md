@@ -45,8 +45,9 @@ Aku menantikan inovasi mereka di masa mendatang dan aku bakalan ngasih tau ke te
 
 Untuk mendapatkan informasi lebih lanjut tentang operator keren ini, kunjungi tautan berikut.
 
-1. [Beranda kartu by.U](https://www.byu.id/id)
+1. [Beranda by.U](https://www.byu.id/id)
 2. [Ketahui cara registrasi kartu by.U](https://jalantikus.com/tips/cara-registrasi-kartu-byu/)
-3. [Berkenalan dengan by.U](https://jalantikus.com/apps/by-u/)
+3. [Ketahui daftar harga paket internet by.U](https://jalantikus.com/tips/daftar-harga-paket-internet-byu/)
+4. [Berkenalan dengan by.U](https://jalantikus.com/apps/by-u/)
 
 [ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)
