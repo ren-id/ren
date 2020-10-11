@@ -1,7 +1,7 @@
 ---
-title: Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi nggak nyoba!
+title: Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi kalau nggak nyoba!
 ---
-# Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi nggak nyoba!
+# Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi kalau nggak nyoba!
 
 Minggu, 11 Oktober 2020 21:06 WIB
 
@@ -48,4 +48,5 @@ Untuk mendapatkan informasi lebih lanjut tentang operator keren ini, kunjungi ta
 1. [Beranda kartu by.U](https://www.byu.id/id)
 2. [Ketahui cara registrasi kartu by.U](https://jalantikus.com/tips/cara-registrasi-kartu-byu/)
 3. [Berkenalan dengan by.U](https://jalantikus.com/apps/by-u/)
-4. Dapatkan kartunya di [Play Store](https://play.google.com/store/apps/details?id=com.byu.id) atau [App Store](https://apps.apple.com/id/app/by-u-id/id1483475992).
+
+[ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)
