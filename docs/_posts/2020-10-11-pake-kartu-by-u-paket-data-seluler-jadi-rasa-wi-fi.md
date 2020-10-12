@@ -23,7 +23,7 @@ Aku pernah ngedumel di Instagram gini, "Coba ada operator yang bisa ngasih paket
 
 Pada September 2020, saat mau beli paket data di aplikasinya by.U, aku ngeliat ada yang baru: "1,5 Mbps 30 hari Rp140.000". Aku orangnya skeptis, mungkin karena sering dibohongin. Jadi gini kira-kira respon pertamaku, "Maksudnya ini _unlimited_, ya? Ah... yang bener aja! Jangan-jangan sama aja kaya _tetangga sebelah_ yang suka bikin hoaks paket _unlimited_. Boro-boro buka YouTube, buka WhatsApp aja kalang kabut.”
 
-Untuk membuktikannya, aku memutuskan beli paket itu. Logikanya gini ya: Gimana kita tau makanan itu enak atau nggak kalau kita belum menjilatnya, ya nggak sih?
+Untuk membuktikannya, aku memutuskan beli paket itu. Logikanya gini ya: Gimana kita tau makanan itu enak atau nggak kalau belum mencicipinya, ya nggak sih?
 
 Beberapa hari makai, aku nggak ngalamin masalah apapun. Paketnya bisa dipakai buat apa aja semaunya: nge-YouTube, Instagram, webinar pake Zoom, dan segalanya. Semuanya beneran semaunya! Faktanya, buat nerbitin artikel ini, aku makai paket data itu.
 
