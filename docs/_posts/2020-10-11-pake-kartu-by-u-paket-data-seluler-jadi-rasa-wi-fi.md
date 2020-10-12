@@ -29,7 +29,7 @@ Beberapa hari makai, aku nggak ngalamin masalah apapun. Paketnya bisa dipakai bu
 
 Adik aku bisa ngerjain tugas sekolah tanpa khawatir kehabisan kuota. Tetangga aku bisa nebeng hotspot buat ngikutin pelatihan dari Prakerja. Jadi, aku nggak punya alasan buat pelit hotspot lagi. Secara tidak langsung bersedekah, ya nggak sih?
 
-Menurut pendapat aku, paket data ini semacam Wi-Fi portabel. Dan beneran, ini paket data _unlimited_ paling bermutu yang pernah kupakai. Nggak perlu kuota utama. Nggak ada syarat dan ketentuan macem-macem. Tinggal klik beli, bayar, jos!
+Menurut pendapat aku, paket data ini semacam Wi-Fi portabel. Aku bisa ngaktifin hotspot buat serumah tanpa takut kebablasan kuota.
 
 Jadi, #SemuanyaSemaunya itu bukan cuman sekedar hashtag biar keliatan keren doang di iklan, tapi beneran diimplementasikan.
 
