@@ -1,8 +1,8 @@
 ---
-title: Coba IDN App! Aplikasi yang memadukan portal berita, media sosial, QnA, dan ensiklopedia
+title: Coba IDN App! Ada 5 Hal yang Bakal Bikin Betah Baca Berita
 description: IDN App merupakan aplikasi untuk membaca dan menulis berita. Aplikasi ini memadukan ensiklopedia, media sosial, dan portal berita sekaligus!
 ---
-# Coba IDN App! Aplikasi yang memadukan portal berita, media sosial, QnA, dan ensiklopedia
+# Coba IDN App! Ada 5 Hal yang Bakal Bikin Betah Baca Berita
 
 Selasa, 13 Oktober 2020 20:06 WIB
 
