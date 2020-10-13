@@ -77,3 +77,5 @@ Pengalaman pengguna (_user experience_) adalah komponen paling fatal dalam suatu
 
 
 Nah, sekarang kita udah tau keistimewaan IDN App. Dengan membaca berita di IDN App, kita telah turut mengurangi sampah kertas dan membantu para penulis berbakat mendapatkan penghasilan sampingan.
+
+[ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)
