@@ -1,8 +1,8 @@
 ---
-title: Coba IDN App! Ada 5 Hal yang Bakal Bikin Betah Baca Berita
+title: Coba Baca Berita di IDN App! Ada 5 Hal yang Bakal Bikin Betah
 description: IDN App merupakan aplikasi untuk membaca dan menulis berita. Aplikasi ini memadukan ensiklopedia, media sosial, dan portal berita sekaligus!
 ---
-# Coba IDN App! Ada 5 Hal yang Bakal Bikin Betah Baca Berita
+# Coba Baca Berita di IDN App! Ada 5 Hal yang Bakal Bikin Betah
 
 Selasa, 13 Oktober 2020 20:06 WIB
 
@@ -25,7 +25,7 @@ Selain ringkas, IDN App tidak menayangkan iklan. Jadi, kita bakal nyaman dan fok
 
 Sekarang, mari kita lihat apa aja yang membedakan IDN App dengan aplikasi sejenis.
 
-## 1. IDN App Punya Konsep _ala_ Media Sosial
+## 1. Punya Konsep _ala_ Media Sosial
 
 ![Media Sosial](https://ren.web.id/files/medsos.png)
 
@@ -39,7 +39,7 @@ Kita bisa menanyakan banyak hal melalui fitur Tanya Jawab. Fitur ini bermanfaat 
 
 Konsep yang diusung oleh IDN App ini patut kita acung jempol. Pasalnya, ini bisa jadi media sosial kita-kita orang Indonesia di masa depan. Kita harus bangga sama karya anak bangsa. Jangan mau kalah sama China yang rakyatnya bangga dengan produk dalam negeri mereka.
 
-## 2. IDN App Memungkinkan Semua Orang Jadi Penulis
+## 2. Memungkinkan Semua Orang Jadi Penulis
 
 ![Menulis](https://ren.web.id/files/typing.png)
 
@@ -47,7 +47,7 @@ IDN App terbuka untuk siapa saja. Semua orang boleh menulis artikel. Artikel-art
 
 Kompasiana adalah _platform_ lain yang memungkinkan orang-orang untuk menulis artikel. Sayangnya Kompasiana tidak menyediakan aplikasi untuk ponsel, sehingga penulisnya dipaksa untuk menulis dari komputer atau laptop. Fitur-fiturnya terbatas dan tidak ramah pengguna untuk orang yang mobilitasnya tinggi.
 
-## 3. IDN App Memberi Apresiasi ke Penulis
+## 3. Mengapresiasi Penulis
 
 ![Reward](https://ren.web.id/files/reward.png)
 
