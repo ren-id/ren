@@ -21,7 +21,7 @@ Tadinya sempat berkata dalam hati, "Kalaupun nggak bisa dipake juga nggak apa-ap
 
 Aku pernah ngedumel di Instagram gini, "Coba ada operator yang bisa ngasih paket data tanpa perlu gebe-gebean. _Unlimited_ yang beneran _unlimited_ dan nggak lelet."
 
-Pada September 2020, saat mau beli paket data di aplikasinya by.U, aku ngeliat ada yang baru: "1,5 Mbps 30 hari Rp140.000". Aku orangnya skeptis, mungkin karena sering dibohongin. Jadi gini kira-kira respon pertamaku, "Maksudnya ini _unlimited_, ya? Ah... yang bener aja! Jangan-jangan sama aja kaya _tetangga sebelah_ yang suka bikin hoaks paket _unlimited_. Boro-boro buka YouTube, buka WhatsApp aja kalang kabut.”
+Pada September 2020, saat mau beli paket data di aplikasinya by.U, aku ngeliat ada yang baru: "1,5 Mbps 30 hari Rp140.000". Aku orangnya _parno_, mungkin karena sering dibohongin. Jadi gini kira-kira respon pertamaku, "Maksudnya ini _unlimited_, ya? Ah... yang bener aja! Jangan-jangan sama aja kaya _tetangga sebelah_ yang suka bikin hoaks paket _unlimited_. Boro-boro buka YouTube, buka WhatsApp aja kalang kabut.”
 
 Untuk membuktikannya, aku memutuskan beli paket itu. Logikanya gini ya: Gimana kita tau makanan itu enak atau nggak kalau belum mencicipinya, ya nggak sih?
 
