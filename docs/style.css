@@ -90,3 +90,9 @@ box-shadow: 2px 2px 8px 0 #cccccc88;
 figcaption {
 padding: 16px 16px 16px 16px;
 }
+
+.title, .subtitle { text-align: center; }
+
+.title { margin-top: 48px; }
+
+.subtitle { margin-bottom: 48px; }
