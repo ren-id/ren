@@ -4,9 +4,9 @@ padding: 0 0 0 0;
 margin: 0 0 0 0;
 }
 
-h1, h2, h3, p, li, table, figcaption, nav {
+h1, h2, h3, p, li, ol, table, figcaption, nav {
 font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", sans-serif;
-color: #555555;
+color: #000000;
 text-decoration: none;
 line-height: 1.3em;
 }
@@ -25,11 +25,11 @@ font-size: 20px;
 }
 
 article {
-margin: 32px 0 32px 0;
+margin: 48px 48px 48px 48px;
 }
 
 p, th, td, li, button, input, nav, figcaption {
-font-size: 17px;
+font-size: 16px;
 }
 
 a {
