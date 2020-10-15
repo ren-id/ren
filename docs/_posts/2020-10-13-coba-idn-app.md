@@ -43,7 +43,7 @@ Konsep yang diusung oleh IDN App ini patut kita acung jempol. Pasalnya, ini bisa
 
 IDN App terbuka untuk siapa saja. Semua orang boleh menulis artikel. Artikel-artikel yang kita baca merupakan tulisan dari orang-orang berbakat. Artikel-artikel itu telah dikurasi, sehingga layak untuk dibaca.
 
-Kompasiana adalah _platform_ lain yang memungkinkan orang-orang untuk menulis artikel. Sayangnya Kompasiana tidak menyediakan aplikasi untuk ponsel, sehingga penulisnya dipaksa untuk menulis dari komputer atau laptop. Fitur-fiturnya terbatas dan tidak ramah pengguna untuk orang yang mobilitasnya tinggi.
+Sebenarnya ada _platform_ lain yang memungkinkan orang-orang untuk menulis artikel. Sayangnya, mereka tidak menyediakan aplikasi untuk ponsel, sehingga penulisnya dipaksa untuk menulis dari komputer atau laptop. Fitur-fiturnya terbatas dan tidak ramah pengguna untuk orang yang mobilitasnya tinggi.
 
 ## 3. Mengapresiasi Penulis
 
