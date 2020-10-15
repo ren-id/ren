@@ -2,7 +2,7 @@
 title: Berbagi ke semua orang dengan cara minimal, ada 7 inspirasi yang mudah diterapkan!
 description: Berbagi itu gak harus pergi ke panti asuhan. Kita bisa berbagi ke siapa aja dan gak harus ngasih sesuatu yang wah.
 ---
-Jumat, 16 Oktober 2020 19:00 WIB
+Kamis, 15 Oktober 2020 18:00 WIB
 
 Akhir-akhir ini ada banyak pengamen di lampu lalu lintas. Kebanyakan di antara mereka adalah anak-anak. Selain itu, juga ada remaja dan ibu-ibu.
 
@@ -11,6 +11,9 @@ Di antara mereka ada yang nyanyi-nyanyi, berpakaian badut, gendong bayi, dan ada
 Ketika berhenti di lampu lalu lintas, aku berpikir begini, “Dari mana mereka datang? Apakah mereka benar-benar membutuhkan?” Untuk sementara, aku melewatkannya.
 
 Aku merenungkan diri di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.” Kalau mau memberi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya dilarang di Palangka Raya.
+
+* 
+{:toc}
 
 ## Berbagi dengan Orang Dekat
 
@@ -80,13 +83,15 @@ Jadi, sekarang aku punya tambahan ruang lega.
 
 ### 6. Mengantar Teman Bepergian
 
-Cerita ini juga berhubungan dengan motor. Temanku itu tidak punya motor. Dia tergantung dengan jasa ojek _online_ dan saudara-saudaranya.
+Ini juga berhubungan dengan motor. Temanku itu tidak punya motor. Dia tergantung dengan jasa ojek _online_ dan saudara-saudaranya.
 
 Dia tidak tiap hari meminta aku mengantarnya. Kalau dia minta diantar, aku akan mengantarnya kalau tidak sedang di tempat kerja.
 
 ## Berbagi dengan Orang Jauh (Tidak Dikenal)
 
 Kita bisa menyalurkan donasi melalui lembaga amal yang terpercaya untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena lebih _simple_.
+
+Berdonasi secara _online_ ke lembaga amal adalah alternatif terbaik. Kelebihan dari cara ini di antaranya: (1) mengurangi kontak fisik, (2) dapat menjangkau penerima manfaat di segala wilayah, (3) dapat menjangkau penerima manfaat secara tepat, dan (4) hemat waktu.
 
 Apabila ingin berdonasi secara _online_, perhatikan seberapa transparan lembaga amal tersebut. Kita wajib mengetahui kegiatan sosial mereka melalui website dan media sosialnya. Dengan demikian, kita akan tahu bagaimana donasi disalurkan.
 
