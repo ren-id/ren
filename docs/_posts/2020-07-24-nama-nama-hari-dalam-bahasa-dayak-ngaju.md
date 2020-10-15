@@ -1,5 +1,7 @@
-# Nama-nama Hari dalam Bahasa Dayak Ngaju
-
+---
+title: Nama-nama Hari dalam Bahasa Dayak Ngaju
+description: Nama-nama hari dalam Bahasa Dayak Ngaju secara keseluruhan mirip dengan bahasa Indonesia.
+---
 Nama-nama hari dalam bahasa Dayak Ngaju secara keseluruhan diserap dari bahasa Indonesia. 
 
 ## 1. Sanayan (Senin)

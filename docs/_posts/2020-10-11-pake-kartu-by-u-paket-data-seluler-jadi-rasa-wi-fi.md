@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi kalau nggak nyoba!
 description: by.U adalah provider bergaya anak muda yang diluncurkan pada 2019
 ---

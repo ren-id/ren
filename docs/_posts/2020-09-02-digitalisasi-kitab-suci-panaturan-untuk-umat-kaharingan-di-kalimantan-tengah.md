@@ -1,5 +1,7 @@
-# Digitalisasi Kitab Suci Panaturan untuk Umat Kaharingan di Kalimantan Tengah
-
+---
+title: Digitalisasi Kitab Suci Panaturan untuk Umat Kaharingan di Kalimantan Tengah
+description: Kitab suci Panaturan kini tersedia di Google Play Store.
+---
 Pernahkah kamu mendengar kata Panaturan? atau Kaharingan? Kalau belum, aku kasih dikit spoiler ya.
 
 > Kaharingan adalah agama yang dianut oleh suku Dayak di Kalimantan Tengah. Panaturan adalah nama kitab suci mereka. Artikel selengkapnya bisa dibaca di [Wikipedia](https://id.wikipedia.org/wiki/Kaharingan). FYI, artikel [Panaturan](https://id.wikipedia.org/wiki/Panaturan) yang ada di Wikipedia itu dulunya aku yang buat :-D 
@@ -19,7 +21,7 @@ Penulis secara pribadi tertarik dengan hal-hal yang berhubungan dengan kebudayaa
 
 Baru-baru ini, aku membuat aplikasi Panaturan untuk Android dan sedang dalam tahap rilis di [Google Play](https://play.google.com/store/apps/details?id=id.web.ren.kaharingan). Kalau kamu mau mencobanya dengan menginstal via APK, kunjungi [artikel ini]() untuk membaca sumber unduhan dan petunjuk instalasi. Ini merupakan terobosan dan aku bangga bisa menjadi bagian dari proyek ini. Belum ada satu pun aplikasi yang menyajikan konten Panaturan dan bagiannya secara utuh di Google Play. Bayangkan, betapa senangnya mereka (umat Kaharingan) ketika tidak perlu lagi menenteng Panaturan dalam bentuk fisik. Panaturan dalam bentuk fisik ternyata sangat tebal dan tidak praktis untuk dibawa-bawa.
 
-Ke depannya, aku ingin aplikasi itu juga tersedia di perangkat Apple. Juga, aku mau menyediakan Panaturan versi online. Beberapa orang tidak suka menginstal perangkat lunak baru di ponsel mereka. Versi online akan lebih mudah diakses tanpa perlu menginstal aplikasi dan juga lebih mudah pengelolaan dan perawatannya. Untuk itu, aku memerlukan [domain](https://www.indowebsite.co.id/domain/) dan [hosting](https://www.indowebsite.co.id/web-hosting/). Versi online akan membutuhkan biaya ekstra. Oleh karena itu, aku membutuhkan [hosting yang murah](https://www.indowebsite.co.id/hosting-murah/) atau [gratis](https://www.indowebsite.co.id/hosting-gratis/) kalau ada. Aku juga mau menyediakan [email](https://www.indowebsite.co.id/email-hosting) supaya kelihatan profesional.
+Ke depannya, aku ingin aplikasi itu juga tersedia di perangkat Apple. Juga, aku mau menyediakan Panaturan versi online. Beberapa orang tidak suka menginstal perangkat lunak baru di ponsel mereka. Versi online akan lebih mudah diakses tanpa perlu menginstal aplikasi dan juga lebih mudah pengelolaan dan perawatannya.
 
 ## Tahapan Digitalisasi
 

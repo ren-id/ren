@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coba Baca Berita di IDN App! Ada 5 Hal yang Bakal Bikin Betah
 description: IDN App merupakan aplikasi untuk membaca dan menulis berita. Aplikasi ini memadukan ensiklopedia, media sosial, dan portal berita sekaligus!
 ---

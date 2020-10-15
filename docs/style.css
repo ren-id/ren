@@ -4,7 +4,7 @@ padding: 0 0 0 0;
 margin: 0 0 0 0;
 }
 
-h1, h2, h3, p, li, ol, table, figcaption, nav {
+h1, h2, h3, p, li, table, figcaption, nav {
 font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", Roboto, sans-serif;
 color: #000000;
 text-decoration: none;
@@ -75,7 +75,7 @@ margin: 0 0 0 0;
 }
 
 .utama {
-max-width: 600px;
+max-width: 540px;
 margin: 0 auto 0 auto;
 padding: 48px 48px 48px 48px;
 }
@@ -91,7 +91,7 @@ figcaption {
 padding: 16px 16px 16px 16px;
 }
 
-.title, .subtitle, .logo > a > img { text-align: center; }
+.title, .subtitle, .logo { text-align: center; }
 
 .title { margin-top: 48px; }
 
@@ -100,5 +100,3 @@ padding: 16px 16px 16px 16px;
 article > p > img { max-width: 100%; }
 
 .logo { margin: 48px 48px 48px 48px; }
-
-.post { }
