@@ -77,7 +77,7 @@ margin: 0 0 0 0;
 .utama {
 max-width: 600px;
 margin: 0 auto 0 auto;
-padding: 16px 16px 16px 16px;
+padding: 48px 48px 48px 48px;
 }
 
 figure {
@@ -95,4 +95,8 @@ padding: 16px 16px 16px 16px;
 
 .title { margin-top: 48px; }
 
-.subtitle { margin-bottom: 48px; }
+.subtitle { margin-bottom: 96px; }
+
+article > p > img { max-width: 100%; }
+
+.logo { margin: 96px 48px 96px 48px; }

@@ -7,12 +7,14 @@ Kami membuat kebijakan sesederhana mungkin. Berikut ini kebijakan privasi sederh
 
 ## 1. Pengumpulan Data Pengguna
 
-Kami tegaskan bahwa kami TIDAK mengumpulkan data apapun dari pengguna. Kami tidak memerlukan data apapun dari pengguna agar layanan kami berfungsi.
+Kami tegaskan bahwa kami tidak mengumpulkan data apa pun dari pengguna. Kami tidak memerlukan data apa pun dari pengguna agar layanan kami berjalan.
 
 ## 2. Akses Perangkat
 
-Layanan kami, baik yang berbentuk perangkat lunak khusus maupun yang dapat diakses langsung melalui peramban web, dapat berfungsi tanpa izin khusus. Kami menyediakan konten apa adanya, tanpa ada embel-embel apa pun di balik pintu.
+Layanan kami, baik yang berbentuk perangkat lunak khusus maupun yang dapat diakses langsung melalui peramban web, dapat berfungsi tanpa izin khusus.
+
+Kami tidak memerlukan informasi perangkat, lokasi, dan informasi pribadi Anda. Milik Anda adalah milik Anda.
 
 ## 3. Iklan
 
-Perangkat lunak dan situs kami mungkin sewaktu-waktu menayangkan iklan. Iklan membantu kami bertahan untuk menyediakan konten yang relevan untuk Anda. Sekali pun Anda menggunakan alat untuk memblokir iklan, konten kami akan tetap dapat diakses.
+Perangkat lunak dan situs kami mungkin sewaktu-waktu menayangkan iklan. Iklan membantu kami bertahan untuk menyediakan konten yang relevan untuk Anda.

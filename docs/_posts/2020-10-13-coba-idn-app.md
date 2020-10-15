@@ -1,9 +1,8 @@
 ---
+layout: post
 title: Coba Baca Berita di IDN App! Ada 5 Hal yang Bakal Bikin Betah
 description: IDN App merupakan aplikasi untuk membaca dan menulis berita. Aplikasi ini memadukan ensiklopedia, media sosial, dan portal berita sekaligus!
 ---
-# Coba Baca Berita di IDN App! Ada 5 Hal yang Bakal Bikin Betah
-
 Selasa, 13 Oktober 2020 20:06 WIB
 
 Kebiasaan baca koran sekarang beralih ke [baca berita](https://idn.onelink.me/VKUf/IDNAppBlogComp) daring. Alih-alih baca berita di koran, banyak orang lebih memilih baca berita daring karena kontennya lebih baru, beragam, gratis, praktis, dan tentu saja lebih menyenangkan.
