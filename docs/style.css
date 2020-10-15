@@ -5,7 +5,7 @@ margin: 0 0 0 0;
 }
 
 h1, h2, h3, p, li, ol, table, figcaption, nav {
-font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", sans-serif;
+font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", Roboto, sans-serif;
 color: #000000;
 text-decoration: none;
 line-height: 1.3em;
@@ -29,7 +29,7 @@ margin: 48px 0 48px 0;
 }
 
 p, th, td, li, button, input, nav, figcaption {
-font-size: 16px;
+font-size: 18px !important;
 }
 
 a {
@@ -91,7 +91,7 @@ figcaption {
 padding: 16px 16px 16px 16px;
 }
 
-.title, .subtitle { text-align: center; }
+.title, .subtitle, .logo > a > img { text-align: center; }
 
 .title { margin-top: 48px; }
 
@@ -99,6 +99,6 @@ padding: 16px 16px 16px 16px;
 
 article > p > img { max-width: 100%; }
 
-.logo { margin: 96px 48px 96px 48px; text-align: center; }
+.logo { margin: 48px 48px 48px 48px; }
 
-.post { margin: 48px 48px 48px 48px; }
+.post { }
