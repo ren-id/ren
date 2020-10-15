@@ -25,7 +25,7 @@ font-size: 20px;
 }
 
 article {
-margin: 48px 48px 48px 48px;
+margin: 48px 0 48px 0;
 }
 
 p, th, td, li, button, input, nav, figcaption {
@@ -100,3 +100,5 @@ padding: 16px 16px 16px 16px;
 article > p > img { max-width: 100%; }
 
 .logo { margin: 96px 48px 96px 48px; }
+
+.post { margin: 48px 48px 48px 48px; }
