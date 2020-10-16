@@ -10,10 +10,9 @@ Di antara mereka ada yang nyanyi-nyanyi, berpakaian badut, gendong bayi, dan ada
 
 Ketika berhenti di lampu lalu lintas, aku berpikir begini, “Dari mana mereka datang? Apakah mereka benar-benar membutuhkan?” Untuk sementara, aku melewatkannya.
 
-Aku merenungkan diri di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.” Kalau mau memberi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya dilarang di Palangka Raya.
+Ketika beristirahat di kamar, aku merenungkan diri “Sebenarnya aku punya banyak hal yang bisa dibagikan.”
 
-* 
-{:toc}
+Kalau mau memberi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya dilarang di Palangka Raya.
 
 ## Berbagi dengan Orang Dekat
 
@@ -29,7 +28,7 @@ Tubuhku sempoyongan bangkit dari kasur. Ini adalah waktu terbaik untuk tidur, te
 
 Kepalaku kosong, sama sekali tidak waspada. Aku yakin ini terjadi pada kebanyakan orang yang mendadak bangun dini hari.
 
-“_Ren, en tau nginjam motormu helun? Motor ikey dia tau belum._” Artinya kurang lebih begini, “Ren, bolehkah meminjam motormu? Motor kami mogok.”
+“_Ren, en tau nginjam motormu helun? Motor ikey dia tau belum._” Mereka bertanya dalam bahasa Dayak Ngaju yang artinya kurang lebih begini, “Ren, bolehkah meminjam motormu? Motor kami mogok.”
 
 Seorang wanita berseragam Bandar Udara Tjilik Riwut dan suaminya berdiri di depan pintu. Itu adalah tetanggaku. Rupanya dia hendak berangkat kerja, subuh-subuh! Motor mereka mogok dan tidak mungkin ada bengkel yang buka subuh-subuh di sekitar. Kalaupun hendak ke bengkel, waktunya tidak akan cukup. _Keburu telat._ Satu-satunya pilihan terbaik adalah meminjam motor.
 
