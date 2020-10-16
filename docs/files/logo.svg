@@ -11,9 +11,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg70"
    version="1.1"
-   viewBox="0 0 43.245789 12.7"
-   height="12.7mm"
-   width="43.245789mm">
+   viewBox="0 0 28.830525 8.4666663"
+   height="8.4666662mm"
+   width="28.830524mm">
   <defs
      id="defs64" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="53.856609"
-     inkscape:cx="90.445776"
-     inkscape:zoom="2.8"
+     inkscape:cy="13.968262"
+     inkscape:cx="252.5046"
+     inkscape:zoom="1.4142136"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -52,14 +52,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(25.839519,-43.089261)"
+     transform="translate(24.244546,-45.393017)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
+       style="fill:#000000"
        inkscape:export-ydpi="45.110001"
        inkscape:export-xdpi="45.110001"
-       transform="matrix(0.23999978,0,0,0.23999978,-28.6515,38.158637)"
+       transform="matrix(0.15999985,0,0,0.15999985,-26.1192,42.105934)"
        id="g477">
       <path
          style="fill:#000000;fill-opacity:1;stroke-width:0.217404"
