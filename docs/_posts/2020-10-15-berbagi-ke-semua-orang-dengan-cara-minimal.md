@@ -4,12 +4,6 @@ description: Berbagi itu gak harus pergi ke panti asuhan atau ngasih uang ke pen
 ---
 Kamis, 15 Oktober 2020 18:00 WIB
 
-Akhir-akhir ini ada banyak pengamen di lampu lalu lintas. Kebanyakan di antara mereka adalah anak-anak. Selain itu, juga ada remaja dan ibu-ibu.
-
-Di antara mereka ada yang nyanyi-nyanyi, berpakaian badut, gendong bayi, dan ada juga yang hanya menadahkan tangan. Sebelum pandemi, pemandangan semacam itu sangat jarang terjadi di Palangka Raya.
-
-Saat berhenti di lampu lalu lintas, aku berpikir begini, “Dari mana mereka datang? Apakah mereka benar-benar membutuhkan?” Untuk sementara, aku melewatkannya.
-
 Aku merenungkan diri ketika sedang beristirahat di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.”
 
 Kalau mau berbagi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya [dilarang di Palangka Raya](https://mediacenter.palangkaraya.go.id/warga-palangka-raya-diimbau-jangan-kasih-uang-kepada-pengemis/).
@@ -20,13 +14,13 @@ Kalau tidak punya kesempatan untuk membagikan sesuatu ke orang asing, bagikan ke
 
 ### 1. Meminjamkan Motor ke Tetangga
 
-Sebelum adzan subuh berkumandang, tiba-tiba ada suara ketokan pintu. Rasanya sangat malas untuk bangun di waktu yang harusnya seseorang sedang nyenyak-nyenyaknya tidur.
+Sebelum adzan subuh berkumandang, tiba-tiba ada suara ketokan pintu. Rasanya sangat malas bangun di waktu yang harusnya seseorang sedang nyenyak-nyenyaknya tidur.
 
-Kalau ada orang mengetuk pintu pada waktu yang kurang wajar, hanya ada dua kemungkinan: (1) orang jahat yang berniat jahat, atau (2) orang yang sedang membutuhkan bantuan.
+Kalau ada orang mengetuk pintu pada waktu yang kurang wajar, ada dua kemungkinan: orang jahat yang berniat jahat, atau orang yang membutuhkan bantuan.
 
-Tubuhku sempoyongan bangkit dari kasur. Ini adalah waktu terbaik untuk tidur, tetapi ada orang di luar sana menungguku. Aku tidak tuli dan tidak mau pura-pura tuli. Aku memilih membuka pintu, tanpa berprasangka apa pun.
+Ini adalah waktu terbaik untuk tidur. Tubuhku sempoyongan bangkit dari kasur. Aku tidak tuli dan tidak mau pura-pura tuli. Aku memilih membuka pintu, tanpa berprasangka apa pun.
 
-Kepalaku kosong, sama sekali tidak waspada. Aku yakin ini terjadi pada kebanyakan orang yang mendadak bangun dini hari.
+Kepalaku kosong, sama sekali tidak waspada.
 
 “_Ren, en tau nginjam motormu helun? Motor ikey dia tau belum._” Mereka bertanya dalam bahasa Dayak Ngaju yang artinya kurang lebih begini, “Ren, bolehkah meminjam motormu? Motor kami mogok.”
 
@@ -60,41 +54,33 @@ Kegiatan bongkar-bongkar ini terinspirasi dari buku _Bahagia Maksimal dengan Hid
 
 Saran dari beliau: _Jangan asal memberi._ Pastikan orang yang menerimanya memang benar-benar mau, sehingga pemberian itu bermanfaat. Jangan sampai pemberian itu malah jadi sampah di rumah si penerima.
 
-### 4. Membawa Camilan buat Teman Kerja
+### 4. Membawa Camilan buat Rekan Kerja
 
-Ketika jam istirahat kerja, biasanya kami membeli makanan atau camilan di luar. Pada situasi seperti ini, kebanyakan di antara kami enggan jajan di luar dengan alasan berhemat. Sebagiannya memilih berpuasa, sebagian memilih membawa makanan dari rumah.
+Ketika jam istirahat kerja, biasanya kami keluar membeli makanan atau camilan. Pada situasi seperti ini, kebanyakan di antara kami enggan jajan di luar dengan alasan berhemat. Sebagiannya memilih berpuasa, sebagian memilih membawa makanan dari rumah.
 
 Aku suka makan tahu goreng sebagai camilan. Harga tahu mentah di warung jauh lebih murah daripada tahu yang sudah digoreng. Dengan 10 ribu, aku bisa membeli tahu mentah sebanyak 30 potong untuk digoreng. Cukup untuk camilan kami semua!
 
-Aku membawa tahu yang digoreng sendiri di rumah beberapa kali dalam seminggu. Ini sangat sederhana, tetapi sangat bermakna untuk mempererat hubungan kami sesama karyawan.
+Aku membawa tahu yang digoreng sendiri di rumah beberapa kali dalam seminggu. Ini sangat sederhana, tetapi sangat bermakna untuk mempererat hubungan kami.
 
 ### 5. Menyumbangkan Buku ke Taman Bacaan Masyarakat
 
 Selain pakaian dan barang _tidak jelas_, aku juga punya buku-buku yang sudah selesai dibaca. Kalau ditimbang-timbang, buku-buku itu bagus untuk pajangan. Sayang sekali kalau harus dikeluarkan dari rumah.
 
-Butuh waktu beberapa hari untuk merenungkan apa yang harus dilakukan dengan buku-buku itu. Akhirnya, aku memutuskan bahwa buku-buku itu harus dikeluarkan. Pertama, aku sudah selesai membacanya. Kedua, aku tidak tertarik lagi untuk membaca ulang. Ketiga, buku-buku itu menyita banyak tempat.
+Butuh waktu beberapa hari untuk merenungkan apa yang harus dilakukan dengan buku-buku itu. Akhirnya, aku memutuskan bahwa buku-buku itu harus dikeluarkan. _Pertama_, aku sudah selesai membacanya. _Kedua_, aku tidak tertarik lagi untuk membaca ulang. _Ketiga_, buku-buku itu menyita banyak tempat.
 
-Aku memosting foto buku-buku itu di status WhatsApp, berharap ada yang mau menerimanya. Sayangnya, tidak ada yang berminat.
+Aku memposting foto buku-buku itu di status WhatsApp, berharap ada yang mau menerimanya. Sayangnya, tidak ada yang berminat.
 
 Tidak jauh dari tempat tinggalku, ada sebuah taman bacaan masyarakat. Aku pergi ke sana dan menanyakan apakah mereka menerima buku bekas untuk tambahan koleksi. Kabar baiknya, mereka mau menerimanya.
 
-Jadi, sekarang aku punya tambahan ruang lega.
-
-### 6. Mengantar Teman Bepergian
-
-Ini juga berhubungan dengan motor. Temanku itu tidak punya motor. Dia tergantung dengan jasa ojek _online_ dan saudara-saudaranya.
-
-Dia tidak tiap hari meminta aku mengantarnya. Kalau dia minta diantar, aku akan mengantarnya kalau tidak sedang di tempat kerja.
+Jadi, sekarang aku punya tambahan ruang lega di rumah.
 
 ## Berbagi dengan Orang Jauh (Tidak Dikenal)
 
-Kita bisa menyalurkan donasi melalui lembaga amal yang terpercaya untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena lebih _simple_.
-
-Berdonasi secara _online_ ke lembaga amal adalah alternatif terbaik. Kelebihan dari cara ini di antaranya: (1) mengurangi kontak fisik, (2) dapat menjangkau penerima manfaat di segala wilayah, (3) dapat menjangkau penerima manfaat secara tepat, dan (4) hemat waktu.
+Kita bisa menyalurkan donasi melalui lembaga amal untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena lebih _simple_.
 
 Apabila ingin berdonasi secara _online_, perhatikan seberapa transparan lembaga amal tersebut. Kita wajib mengetahui kegiatan sosial mereka melalui website dan media sosialnya. Dengan demikian, kita akan tahu bagaimana donasi disalurkan.
 
-Sebagai contoh, mari kita mengenali [LAZ UCare Indonesia](https://www.ucareindonesia.org/). Lembaga ini mengelola dana ZISWAF, kemanusiaan, dan dana sosial di Bekasi. Mereka secara rutin membagikan foto dan video kegiatannya melalui media sosial seperti Instagram dan Facebook.
+Sebagai contoh, lihat [LAZ UCare Indonesia](https://www.ucareindonesia.org/). Lembaga ini mengelola dana ZISWAF, kemanusiaan, dan dana sosial di Bekasi. Mereka secara rutin membagikan foto dan video kegiatannya melalui media sosial seperti Instagram dan Facebook.
 
 Selain media sosial, lembaga ini juga memiliki website. Donatur dapat melihat kabar terkini, program-program yang mereka jalankan, dan laporan pengelolaan dana. 
 
