@@ -26,13 +26,20 @@
 </script>
 </head>
 <body>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v8.0" nonce="x0YgJvJw"></script>
+
 <div class="logo"><a href="{{site.url}}"><img src="{{site.url}}/files/icon48.png"/></a></div>
 <div class="utama">
-<div class="post">
 <h1>{{ page.title }}</h1>
 <article>
 {{ content }}
 </article>
+<div class="komentar">
+
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" data-width=""></div>
+
 <p>&copy; Reno</p>
 </div>
 </div>

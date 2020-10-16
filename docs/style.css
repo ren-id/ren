@@ -11,8 +11,12 @@ text-decoration: none;
 line-height: 1.3em;
 }
 
-h1, h2, h3, p, li, table {
+h1, p, li, table {
 margin: 16px 0 16px 0;
+}
+
+h2, h3, h4 {
+margin: 48px 0 24px 0;
 }
 
 h1 {
@@ -100,3 +104,10 @@ padding: 16px 16px 16px 16px;
 article > p > img { max-width: 100%; }
 
 .logo { margin: 48px 48px 48px 48px; }
+
+.komentar { margin: 48px 0 48px 0; }
+
+#markdown-toc {
+margin: 48px 0 48px 0;
+list-style-type: none;
+}
