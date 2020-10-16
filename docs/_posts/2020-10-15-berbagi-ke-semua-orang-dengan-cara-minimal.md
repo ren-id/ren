@@ -1,6 +1,6 @@
 ---
-title: Berbagi ke semua orang dengan cara minimal, ada 7 inspirasi yang mudah diterapkan!
-description: Berbagi itu gak harus pergi ke panti asuhan. Kita bisa berbagi ke siapa aja dan gak harus ngasih sesuatu yang wah.
+title: Berbagi ke Semua Orang dengan Cara Minimal
+description: Berbagi itu gak harus pergi ke panti asuhan atau ngasih uang ke pengemis. Kita bisa berbagi ke siapa aja dan gak harus ngasih sesuatu yang wah.
 ---
 Kamis, 15 Oktober 2020 18:00 WIB
 
@@ -8,11 +8,11 @@ Akhir-akhir ini ada banyak pengamen di lampu lalu lintas. Kebanyakan di antara m
 
 Di antara mereka ada yang nyanyi-nyanyi, berpakaian badut, gendong bayi, dan ada juga yang hanya menadahkan tangan. Sebelum pandemi, pemandangan semacam itu sangat jarang terjadi di Palangka Raya.
 
-Ketika berhenti di lampu lalu lintas, aku berpikir begini, “Dari mana mereka datang? Apakah mereka benar-benar membutuhkan?” Untuk sementara, aku melewatkannya.
+Saat berhenti di lampu lalu lintas, aku berpikir begini, “Dari mana mereka datang? Apakah mereka benar-benar membutuhkan?” Untuk sementara, aku melewatkannya.
 
-Ketika beristirahat di kamar, aku merenungkan diri “Sebenarnya aku punya banyak hal yang bisa dibagikan.”
+Aku merenungkan diri ketika sedang beristirahat di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.”
 
-Kalau mau memberi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya dilarang di Palangka Raya.
+Kalau mau berbagi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula, memberi uang ke pengemis sebenarnya [dilarang di Palangka Raya](https://mediacenter.palangkaraya.go.id/warga-palangka-raya-diimbau-jangan-kasih-uang-kepada-pengemis/).
 
 ## Berbagi dengan Orang Dekat
 
@@ -110,6 +110,7 @@ Meskipun saat ini di antara kita masih ada yang _kalang kabut_ dalam pekerjaan, 
 
 1. Saratini, Muhajjah. 2019. _Bahagia Maksimal dengan Hidup Minimal_. Yogyakarta: Laksana
 2. LAZ UCare Indonesia (https://www.ucareindonesia.org/)
+3. Media Center Pemerintah Kota Palangka Raya (https://mediacenter.palangkaraya.go.id)
 
 *Tulisan ini diikutsertakan dalam rangka Lomba Blog LAZ UCare Indonesia 2020.*
 
