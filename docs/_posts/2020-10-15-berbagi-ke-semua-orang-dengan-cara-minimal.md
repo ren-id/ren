@@ -2,6 +2,8 @@
 title: Berbagi ke Semua Orang dengan Cara Minimal
 description: Berbagi itu gak harus pergi ke panti asuhan atau ngasih uang ke pengemis. Kita bisa berbagi ke siapa aja dan gak harus ngasih sesuatu yang wah.
 ---
+# Berbagi ke Semua Orang dengan Cara Minimal
+
 Kamis, 15 Oktober 2020 18:00 WIB
 
 Aku merenungkan diri ketika sedang beristirahat di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.”

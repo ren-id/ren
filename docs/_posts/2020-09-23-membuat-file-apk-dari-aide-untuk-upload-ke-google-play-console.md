@@ -2,11 +2,11 @@
 title: Membuat file APK dari aplikasi AIDE untuk publish ke Google Play Console
 description: Berikut langkah yang benar untuk membuat file APK dari aplikasi AIDE agar dapat di-publish ke Google Play Console.
 ---
-Ada 2 format yang dapat digunakan untuk menerbitkan rilis aplikasi kamu ke di Google Play Console: APK dan AAB.
+# Membuat file APK dari aplikasi AIDE untuk publish ke Google Play Console
 
 AIDE adalah perangkat lunak (software) yang berjalan di Android. Perangkat lunak ini digunakan untuk membuat aplikasi Android dll secara langsung di Android itu sendiri. Alih-alih menggunakan Android Studio, kamu bisa menggunakan perangkat lunak ini untuk belajar membuat aplikasi sederhana.
 
-Artikel ini akan menjelaskan bagaimana cara membuat dan menandatangani file APK dari AIDE agar dapat diunggah ke Google Play Console. Fungsi penandatanganan aplikasi untuk publish hanya dapat dilakukan dari AIDE Premium. Ingat, jangan pakai yang bajakan. Kalau kamu ingin aplikasi kamu dihargai oleh orang lain, hargai juga karya orang lain. Membajak sama dengan mencuri. Kalau kamu belum punya cukup uang untuk membeli, tunggulah sampai uangmu cukup. Kalau kamu sudah pakai versi premium, yuk lanjut.
+Berikut ini cara membuat dan menandatangani file APK dari aplikasi AIDE agar dapat diunggah ke Google Play Console. Fungsi penandatanganan aplikasi untuk publish hanya dapat dilakukan dari AIDE Premium. Ingat, jangan pakai yang bajakan. Kalau kamu ingin aplikasi kamu dihargai oleh orang lain, hargai juga karya orang lain. Membajak sama dengan mencuri. Kalau kamu belum punya cukup uang untuk membeli, tunggulah sampai uangmu cukup. Kalau kamu sudah pakai versi premium, yuk lanjut.
 
 * 
 {:toc}

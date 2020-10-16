@@ -2,6 +2,8 @@
 title: Daftar Lagu Tradisional Suku Dayak Ngaju
 description: Suku Dayak Ngaju punya banyak lagu tradisional yang indah.
 ---
+# Daftar Lagu Tradisional Suku Dayak Ngaju
+
 Lagu tradisional suku Dayak Ngaju umumnya bergenre etnik atau pop. Beberapa di antaranya hanya menggunakan alat musik tradisional kecapi. Lagu tradisional yang menggunakan kecapi disebut karungut. Selain itu, ada juga lagu dangdut yang menggunakan bahasa Dayak Ngaju sepenuhnya, tetapi kami tidak menyebutnya sebagai lagu tradisional suku Dayak Ngaju.
 
 * 

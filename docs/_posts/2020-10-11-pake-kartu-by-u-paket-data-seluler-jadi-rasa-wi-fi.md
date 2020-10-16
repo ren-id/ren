@@ -2,6 +2,8 @@
 title: Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi kalau nggak nyoba!
 description: by.U adalah provider bergaya anak muda yang diluncurkan pada 2019
 ---
+# Pake kartu by.U paket data seluler jadi rasa Wi-Fi, rugi kalau nggak nyoba!
+
 Minggu, 11 Oktober 2020 21:06 WIB
 
 Pada bulan November 2019, aku nggak sengaja liat by.U di Google Play. Dia menyatakan diri sebagai operator telekomunikasi serba digital pertama di Indonesia dengan hashtag #SemuanyaSemaunya.

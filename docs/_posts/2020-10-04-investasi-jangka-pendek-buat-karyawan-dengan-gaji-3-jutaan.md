@@ -2,6 +2,8 @@
 title: Investasi Jangka Pendek untuk Karyawan dengan Gaji 3 Jutaan
 description: Kalau mau menabung, sebaiknya disimpan dalam bentuk emas atau reksadana aja biar bisa berkembang.
 ---
+# Investasi Jangka Pendek untuk Karyawan dengan Gaji 3 Jutaan
+
 Kamu punya uang berlebih sisa gajian?
 
 Daripada dibelanjakan yang aneh-aneh yang sebenarnya tidak kamu butuhkan, mending diinvestasikan!

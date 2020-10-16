@@ -2,9 +2,9 @@
 title: Digitalisasi Kitab Suci Panaturan untuk Umat Kaharingan di Kalimantan Tengah
 description: Kitab suci Panaturan kini tersedia di Google Play Store.
 ---
-Pernahkah kamu mendengar kata Panaturan? atau Kaharingan? Kalau belum, aku kasih dikit spoiler ya.
+# Digitalisasi Kitab Suci Panaturan untuk Umat Kaharingan di Kalimantan Tengah
 
-> Kaharingan adalah agama yang dianut oleh suku Dayak di Kalimantan Tengah. Panaturan adalah nama kitab suci mereka. Artikel selengkapnya bisa dibaca di [Wikipedia](https://id.wikipedia.org/wiki/Kaharingan). FYI, artikel [Panaturan](https://id.wikipedia.org/wiki/Panaturan) yang ada di Wikipedia itu dulunya aku yang buat :-D 
+Kaharingan adalah agama yang dianut oleh suku Dayak di Kalimantan Tengah. Panaturan adalah nama kitab suci mereka. Artikel selengkapnya bisa dibaca di [Wikipedia](https://id.wikipedia.org/wiki/Kaharingan). FYI, artikel [Panaturan](https://id.wikipedia.org/wiki/Panaturan) yang ada di Wikipedia itu dulunya aku yang buat :-D 
 
 Sejauh ini, belum banyak artikel tentang agama ini. Padahal, agama ini sudah eksis jauh sebelum agama-agama besar masuk. Jika kamu mengetik kata kunci Panaturan yang disertai nomor pasalnya di Google, maka kamu nyaris tidak menemukan konten yang relevan (misalnya: "Kitab suci Panaturan terjemahan bahasa Indonesia pasal 3"). Ini akan menjadi masalah bagi mahasiswa yang sedang mengerjakan tugas. Konten-konten yang disajikan tidak relevan. Satu-satunya konten relevan yang utuh tentang isi kitab panaturan adalah kalau kamu mengetik kata kunci "Panaturan pdf" di Google. Google menampilkan arsip Panaturan yang aku unggah pada tahun 2016.
 

@@ -2,6 +2,8 @@
 title: Asal-usul Beras dalam Kitab Suci Panaturan
 description: Menurut kitab suci Panaturan, beras berasal dari kambang garing nganderang sukah lumpung matan.
 ---
+# Asal-usul Beras dalam Kitab Suci Panaturan
+
 Umat Kaharingan meyakini bahwa manusia yang ada di bumi adalah keturunan Raja Bunu. Raja Bunu adalah saudara kandung kembar Raja Sangen dan Raja Sangiang. Mereka bertiga adalah putra dari manusia pertama, Manyamei Tunggul Garing dan Kameluh Putak Bulau.
 
 Ketika mereka masih kecil, Raja Bunu kelihatan berbeda dari kedua saudaranya. Kaum Sangiang tumbuh dengan memakan _pantar pinang._ Sementara itu, Raja Bunu tidak bisa gemuk memakan _pantar pinang._ Dia 

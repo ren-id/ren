@@ -2,6 +2,8 @@
 title: Doa Tamparan Basarah huang Bahasa Dayak Ngaju (Basa Sangiang)
 description: Ini adalah doa saat memulai acara persembahyangan menurut ajaran agama Kaharingan.
 ---
+# Doa Tamparan Basarah huang Bahasa Dayak Ngaju (Basa Sangiang)
+
 Inanjuri-ku ganan tandak balua bulau pantar tatah, bahanjung rabia sadurin guntum.
 
 Bahi-bahing panganak andau balua parung hai malabehu benteng, bahanjung siru datuh marantau ruang, je gantung pahalendang, tinggi pahalingei.
