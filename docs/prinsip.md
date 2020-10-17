@@ -1,14 +1,14 @@
 # Prinsip Dasar Konten
 
-Aku fokus menyajikan konten dengan teks-saja dalam menyampaikan cerita atau gagasan. Aku yakin konten teks-saja memberikan keuntungan, di antaranya sebagai berikut.
+Kami fokus menyajikan konten dengan teks-saja dalam menyampaikan cerita atau gagasan. Kami yakin konten teks-saja memberikan keuntungan, di antaranya sebagai berikut.
 
 ## 1. Meningkatkan Daya Baca
 
-Aku ingin pengunjung fokus membaca, bukan melihat gambar atau video. Menurut [katadata.co.id](https://databoks.katadata.co.id/datapublish/2020/02/27/tingkat-literasi-indonesia-masih-rendah) tahun 2019, minat baca orang Indonesia masih rendah. Dengan menyajikan konten teks-saja, pengunjung tidak akan teralihkan saat membaca.
+Kami ingin pengunjung fokus membaca, bukan melihat gambar atau video. Menurut [katadata.co.id](https://databoks.katadata.co.id/datapublish/2020/02/27/tingkat-literasi-indonesia-masih-rendah) tahun 2019, minat baca orang Indonesia masih rendah. Dengan menyajikan konten teks-saja, pengunjung tidak akan teralihkan saat membaca.
 
 ## 2. Mempercepat Pemuatan Halaman
 
-Gambar atau video berpotensi memperlambat pemuatan halaman. Halaman dengan konten teks-saja dapat dimuat cukup cepat meski pun jaringan Internet sedang lambat, sehingga menghemat waktu menunggu.
+Gambar atau video berpotensi memperlambat pemuatan halaman. Halaman dengan konten teks-saja dapat dimuat cukup cepat meskipun jaringan Internet sedang lambat, sehingga menghemat waktu menunggu.
 
 ## 3. Menghemat Kuota
 

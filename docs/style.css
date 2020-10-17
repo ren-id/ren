@@ -67,8 +67,15 @@ padding: 4px 4px 4px 4px;
 text-align: left;
 }
 
-.hlink {
+.hlink > ul {
+list-style-type: none;
 word-spacing: 16px;
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+}
+
+.hlink > ul > li {
+display: inline;
 line-height: 1.5em;
 }
 
@@ -105,7 +112,7 @@ padding: 16px 16px 16px 16px;
 
 .subtitle { margin-bottom: 96px; }
 
-article > p > img { max-width: 100%; }
+.utama > p > img { max-width: 100%; }
 
 .logo { margin: 96px 48px 96px 48px; }
 
@@ -114,4 +121,9 @@ article > p > img { max-width: 100%; }
 #markdown-toc {
 margin: 48px 0 48px 0;
 list-style-type: none;
+padding: 0 0 0 0;
+}
+#markdown-toc > ul > ul {
+list-style-type: none;
+padding: 0 0 0 32px;
 }
