@@ -2,7 +2,7 @@
 title: Profil Ren
 description: Ini adalah profil penulis ren.web.id
 ---
-![Foto Profil Ren]({{ site.url }}/background.png)
+![Foto Profil Ren]({{ site.url }}/files/background.png)
 
 # Halo dari Ren.
 
