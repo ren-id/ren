@@ -4,7 +4,7 @@ description: Berbagi itu gak harus pergi ke panti asuhan atau ngasih uang ke pen
 ---
 # Berbagi ke Semua Orang dengan Cara Minimal
 
-Kamis, 15 Oktober 2020 18:00 WIB
+![Tentara Berbagi](https://images.pexels.com/photos/36785/soldier-military-uniform-american.jpg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
 Aku merenungkan diri ketika sedang beristirahat di rumah, “Sebenarnya aku punya banyak hal yang bisa dibagikan.”
 
@@ -12,7 +12,7 @@ Kalau mau berbagi, aku tidak harus memberi uang ke pengemis di jalanan. Lagipula
 
 ## Berbagi dengan Orang Dekat
 
-Kalau tidak punya kesempatan untuk membagikan sesuatu ke orang asing, bagikan ke orang terdekat.
+Ketika tidak punya kesempatan untuk membagikan sesuatu ke orang asing, aku berbagi dengan orang terdekat. Berikut beberapa kisahnya.
 
 ### 1. Meminjamkan Motor ke Tetangga
 
@@ -32,7 +32,7 @@ Lalu... kenapa mereka memilih meminjam motorku? Kemungkinan besar karena aku sat
 
 Aku akan meminjamkan motorku lagi kalau mereka membutuhkannya.
 
-### 2. Berbagi Kuota
+### 2. Hotspot Internet
 
 Bantuan kuota belajar dari pemerintah tidak kunjung masuk ke nomor ponsel adikku. Dia merana beberapa jam karena tidak tersambung ke internet dan tidak bisa mendapatkan informasi terbaru di grup belajar mereka. _Uang jajannya habis untuk beli kuota. Kali ini dia apes._
 
@@ -42,7 +42,7 @@ Di lain waktu, tetanggaku yang sebelumnya meminjam motor subuh-subuh, mengikuti 
 
 Jika ada yang mau hotspot dari ponselku, maka aku akan menyalakannya. Dengan senang hati.
 
-### 3. Berbagi Pakaian dan Barang dengan Sahabat
+### 3. Memberikan Pakaian dan Barang Tak Terpakai
 
 Setahun yang lalu aku membeli baju di Matahari. Aku membelinya karena sedang diskon. Jumlahnya tidak sedikit. Setelah bongkar-bongkar, aku menemukan baju-baju yang sama sekali tidak pernah dikenakan. Ada yang terlipat rapi di kotak dan ada yang bergelantungan di lemari. Lalu untuk apa terus-terusan disimpan?
 
@@ -76,13 +76,13 @@ Tidak jauh dari tempat tinggalku, ada sebuah taman bacaan masyarakat. Aku pergi 
 
 Jadi, sekarang aku punya tambahan ruang lega di rumah.
 
-## Berbagi dengan Orang Jauh (Tidak Dikenal)
+## Berbagi dengan Orang Jauh
 
-Kita bisa menyalurkan donasi melalui lembaga amal untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena lebih _simple_.
+Kita bisa menyalurkan donasi secara _online_ melalui lembaga amal untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena tidak dibatasi waktu dan wilayah.
 
 Apabila ingin berdonasi secara _online_, perhatikan seberapa transparan lembaga amal tersebut. Kita wajib mengetahui kegiatan sosial mereka melalui website dan media sosialnya. Dengan demikian, kita akan tahu bagaimana donasi disalurkan.
 
-Sebagai contoh, lihat [LAZ UCare Indonesia](https://www.ucareindonesia.org/). Lembaga ini mengelola dana ZISWAF, kemanusiaan, dan dana sosial di Bekasi. Mereka secara rutin membagikan foto dan video kegiatannya melalui media sosial seperti Instagram dan Facebook.
+Sebagai contoh, lihat [LAZ UCare Indonesia](https://www.ucareindonesia.org/). Lembaga ini mengelola dana ZISWAF, kemanusiaan, dan dana sosial di Bekasi. Mereka rutin membagikan foto dan video kegiatannya melalui media sosial seperti Instagram dan Facebook.
 
 Selain media sosial, lembaga ini juga memiliki website. Donatur dapat melihat kabar terkini, program-program yang mereka jalankan, dan laporan pengelolaan dana. 
 
@@ -99,6 +99,7 @@ Meskipun saat ini di antara kita masih ada yang _kalang kabut_ dalam pekerjaan, 
 1. Saratini, Muhajjah. 2019. _Bahagia Maksimal dengan Hidup Minimal_. Yogyakarta: Laksana
 2. LAZ UCare Indonesia (https://www.ucareindonesia.org/)
 3. Media Center Pemerintah Kota Palangka Raya (https://mediacenter.palangkaraya.go.id)
+4. Foto oleh [Pixabay](https://www.pexels.com/id-id/foto/amal-anak-kecil-anak-anak-belum-tua-36785/) dari [Pexels](https://www.pexels.com)
 
 *Tulisan ini diikutsertakan dalam rangka Lomba Blog LAZ UCare Indonesia 2020.*
 
