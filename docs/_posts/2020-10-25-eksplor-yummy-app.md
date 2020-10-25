@@ -96,3 +96,5 @@ Aku ngikutin petunjuk secermat mungkin. Walaupun tidak semuanya diikuti dengan s
 Harapan ke depannya aku pengen rajin masak sendiri di rumah. Ada banyak resep di [Yummy App](https://yummy.onelink.me/Fhn6/YummyBlogComp) yang menarik buat dicoba dan ini sangat membantu buat orang yang tidak bisa masak seperti aku. Sangat menyenangkan!
 
 > Artikel ini dibuat berdasarkan pengalaman memasak menggunakan [Yummy App](https://yummy.onelink.me/Fhn6/YummyBlogComp).
+
+[ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)
