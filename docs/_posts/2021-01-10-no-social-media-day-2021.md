@@ -22,4 +22,4 @@ Mataku pasti lelah menatap smartphone dan tablet dalam waktu yang lama, lebih-le
 
 Butuh waktu untuk rehat dan reset kehidupan sosial agar bisa beristirahat, bekerja, dan menikmati waktu santai.
 
-Mungkin, aku akan kembali sesekali memakai media sosial agar tetap terhubung dengan teman-teman, tetapi aku tidak akan menggunakannya dalam jangka waktu yang.
+Mungkin, aku akan kembali sesekali memakai media sosial agar tetap terhubung dengan teman-teman, tetapi aku tidak akan menggunakannya dalam jangka waktu yang lama.

@@ -27,16 +27,9 @@
 </head>
 <body>
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v8.0" nonce="x0YgJvJw"></script>
-
 <div class="logo"><a href="{{site.url}}"><img src="{{site.url}}/files/logo.svg" alt="logo ren"/></a></div>
 <div class="utama">
 {{ content }}
-
-<div class="komentar">
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="10" data-width="100%"></div>
-</div>
 
 <p>{% include link.html %}</p>
 <p><b>Fokus dengan konten teks-saja.</b></p>

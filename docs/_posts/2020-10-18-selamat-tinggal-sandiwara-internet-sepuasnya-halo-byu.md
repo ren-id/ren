@@ -43,10 +43,3 @@ Gen Z pengennya sesuatu yang praktis dan _simple_, termasuk paket internet. Pake
 > Aku menyesal mengenal by.U, menyesal karena dia terlambat hadir di hidupku.
 
 Kehadiran by.U telah mengubah segalanya. Aku telah berhenti mencari-cari provider yang cocok buatku. Kini aku menambatkan hatiku buat by.U semata.
-
-Mau kenalan sama by.U juga? Awas jatuh hati! Ini aku kasih tau jalurnya ya.
-
-* Kenalannya [di sini](https://www.byu.id/id)
-* Downloadnya bisa [di sini](https://jalantikus/apps/by-u/)
-* Cara registrasinya [di sini](https://jalantikus/tips/cara-registrasi-kartu-byu/)
-* Daftar harga paketnya [di sini](https://jalantikus/daftar-harga-paekt-internet-byu/)

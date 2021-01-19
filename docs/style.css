@@ -85,8 +85,9 @@ top: 0;
 left: 0;
 backdrop-filter: saturate(180%) blur(20px);
 padding: 16px 16px 16px 16px;
-background: #ffffff88;
+background: #f9f9f955;
 margin: 0 0 0 0;
+border-bottom: 1px solid #eeeeee;
 }
 
 .utama {

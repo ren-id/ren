@@ -76,31 +76,14 @@ Tidak jauh dari tempat tinggalku, ada sebuah taman bacaan masyarakat. Aku pergi 
 
 Jadi, sekarang aku punya tambahan ruang lega di rumah.
 
-## Berbagi dengan Orang Jauh
-
-Kita bisa menyalurkan donasi secara _online_ melalui lembaga amal untuk disampaikan ke orang yang seharusnya. Berdonasi dengan cara ini dapat mempermudah kita karena tidak dibatasi waktu dan wilayah.
-
-Apabila ingin berdonasi secara _online_, perhatikan seberapa transparan lembaga amal tersebut. Kita wajib mengetahui kegiatan sosial mereka melalui website dan media sosialnya. Dengan demikian, kita akan tahu bagaimana donasi disalurkan.
-
-Sebagai contoh, lihat [LAZ UCare Indonesia](https://www.ucareindonesia.org/). Lembaga ini mengelola dana ZISWAF, kemanusiaan, dan dana sosial di Bekasi. Mereka rutin membagikan foto dan video kegiatannya melalui media sosial seperti Instagram dan Facebook.
-
-Selain media sosial, lembaga ini juga memiliki website. Donatur dapat melihat kabar terkini, program-program yang mereka jalankan, dan laporan pengelolaan dana. 
-
-Melalui website dan media sosial, kita bisa menilai seberapa transparan lembaga itu.
-
 ## Kesimpulan
 
 Jika dengan memberikan pakaian dan barang-barang tidak terpakai itu dapat melapangkan ruang di rumah, maka berbagi dengan orang lain sejatinya dapat melapangkan ruang dalam hati kita.
 
-Meskipun saat ini di antara kita masih ada yang _kalang kabut_ dalam pekerjaan, kita harus tetap [SEMANGAT BERBAGI DI ERA BARU](https://www.ucareindonesia.org/).
-
 ## Referensi
 
 1. Saratini, Muhajjah. 2019. _Bahagia Maksimal dengan Hidup Minimal_. Yogyakarta: Laksana
-2. LAZ UCare Indonesia (https://www.ucareindonesia.org/)
-3. Media Center Pemerintah Kota Palangka Raya (https://mediacenter.palangkaraya.go.id)
-4. Foto oleh [Pixabay](https://www.pexels.com/id-id/foto/amal-anak-kecil-anak-anak-belum-tua-36785/) dari [Pexels](https://www.pexels.com)
-
-*Tulisan ini diikutsertakan dalam rangka Lomba Blog LAZ UCare Indonesia 2020.*
+2. Media Center Pemerintah Kota Palangka Raya (https://mediacenter.palangkaraya.go.id)
+3. Foto oleh [Pixabay](https://www.pexels.com/id-id/foto/amal-anak-kecil-anak-anak-belum-tua-36785/) dari [Pexels](https://www.pexels.com)
 
 [ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)

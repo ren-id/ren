@@ -36,17 +36,10 @@ Jadi, #SemuanyaSemaunya itu bukan cuman sekedar hashtag biar keliatan keren doan
 
 Iklan mereka tuh bermutu. Nggak banyak _cing-cong_. Nggak ada syarat dan ketentuan tersembunyi. Sekali baca langsung _ngeh_.
 
-## Simpulan
+## Kesimpulan
 
 by.U adalah operator yang baru lahir tahun kemarin. Kalau diibaratkan sebagai manusia, by.U tuh masih bayi dan belum bisa ngapa-ngapain. Faktanya, dia udah bisa ngeliat dan dengerin apa yang pengguna pengen. Dia udah bisa berdiri tegak dan berbaur sama penggunanya.
 
 Aku menantikan inovasi mereka di masa mendatang dan aku bakalan ngasih tau ke teman-teman bahwa: "by.U adalah representasi operator telekomunikasi yang autentik. Inilah operator telekomunikasi yang kita rindukan selama ini."
-
-Untuk mendapatkan informasi lebih lanjut tentang operator keren ini, kunjungi tautan berikut.
-
-1. [Beranda by.U](https://www.byu.id/id)
-2. [Cara registrasi kartu by.U](https://jalantikus.com/tips/cara-registrasi-kartu-byu/)
-3. [Daftar harga paket internet by.U](https://jalantikus.com/tips/daftar-harga-paket-internet-byu/)
-4. [Berkenalan dengan by.U](https://jalantikus.com/apps/by-u/)
 
 [ ![Protected by Copyscape - Do not copy content from this page.](//banners.copyscape.com/img/copyscape-banner-black-200x25.png) ](http://www.copyscape.com/)
